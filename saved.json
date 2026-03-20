@@ -1,0 +1,133 @@
+[
+  {
+    "id": 3631016,
+    "uri": "https://api.kexp.org/v2/plays/3631016/?format=json",
+    "airdate": "2026-03-19T11:43:30-07:00",
+    "song": "She Knows Too Much",
+    "track_id": "059c8607-cc35-4442-ae03-7d4a83bfd9df",
+    "recording_id": "63626ced-648f-45e2-9043-fd062a32e9f5",
+    "artist": "Thundercat feat. Mac Miller",
+    "artist_ids": [
+      "044fd265-79dd-43eb-afc4-8b20becf7e17",
+      "a0e8a1b1-5f8f-475a-a253-17415c17d0ff"
+    ],
+    "album": "Distracted",
+    "release_id": "bf5196a5-544d-44c4-aebc-b62472a365d0",
+    "release_group_id": "cd80d129-cb28-4e70-b4c2-b4ac052cb90e",
+    "release_date": "2026-04-03"
+  },
+  {
+    "id": 3631018,
+    "uri": "https://api.kexp.org/v2/plays/3631018/?format=json",
+    "airdate": "2026-03-19T11:50:14-07:00",
+    "song": "Strawberry Kiwi",
+    "track_id": "71d4699c-9d36-442c-9228-803b7b524d21",
+    "recording_id": "e1e76d3b-40c7-416a-a596-cc2c825ceab3",
+    "artist": "The Olympians",
+    "artist_ids": [
+      "566835dc-d09f-45b7-8212-bcc9ba988e11"
+    ],
+    "album": "In Search of a Revival",
+    "release_id": "76bca1fc-e273-4373-b399-4610e0ffc9a3",
+    "release_group_id": "f647135c-99c2-4289-bf80-3e8a3d86a5db",
+    "release_date": "2025-11-05"
+  },
+  {
+    "id": 3631093,
+    "uri": "https://api.kexp.org/v2/plays/3631093/?format=json",
+    "airdate": "2026-03-19T14:37:54-07:00",
+    "song": "Deathwish",
+    "track_id": "007a8889-4922-4d8a-a12a-bd7279836761",
+    "recording_id": "103e805e-0a8a-455a-ba10-bcf61d3cbe1b",
+    "artist": "The Haunted Youth feat. Max Fry",
+    "artist_ids": [
+      "c91379a4-478e-4a9b-a312-b66771577d92",
+      "12db27e3-c430-4ff9-ac22-c1ef8f2ad799"
+    ],
+    "album": "Boys Cry Too",
+    "release_id": "b991e784-9415-47bb-b1a1-17a93079f181",
+    "release_group_id": "98361f22-9983-416b-937f-87f48d68c208",
+    "release_date": "2026-05-08"
+  },
+  {
+    "id": 3631077,
+    "uri": "https://api.kexp.org/v2/plays/3631077/?format=json",
+    "airdate": "2026-03-19T14:12:50-07:00",
+    "song": "Liars Tale",
+    "track_id": "86cce1c4-1163-4a69-a329-4981ce9047be",
+    "recording_id": "7de97cfd-eea2-43a1-98ef-7ae54cd7e5ea",
+    "artist": "KNEECAP",
+    "artist_ids": [
+      "6ac275dd-eb37-42cf-9a60-6b147320c7be"
+    ],
+    "album": "FENIAN",
+    "release_id": "1ab785c7-afaf-4a16-a367-f15358048c23",
+    "release_group_id": "3dda3379-dfa3-4f1a-95b3-2eb70d3b74ee",
+    "release_date": "2026-04-24"
+  },
+  {
+    "id": 3631128,
+    "uri": "https://api.kexp.org/v2/plays/3631128/?format=json",
+    "airdate": "2026-03-19T15:53:41-07:00",
+    "song": "Good News",
+    "track_id": "64318a12-e777-49f8-a805-550553efb86d",
+    "recording_id": "93e7896e-a307-4c3b-a349-26d9dde7a118",
+    "artist": "Modha feat. Allysha Joy",
+    "artist_ids": [
+      "fb33e0a1-12e4-4c06-bbb9-d479460fed61",
+      "5409e14a-7e48-4981-acfa-ff7306ee2869"
+    ],
+    "album": "At Your Pace",
+    "release_id": "c58be62a-6a3d-44dd-8f79-ee82856f9e05",
+    "release_group_id": "b8454793-7fe6-4078-9b33-025f4686dbcf",
+    "release_date": "2026-03-13"
+  },
+  {
+    "id": 3631135,
+    "uri": "https://api.kexp.org/v2/plays/3631135/?format=json",
+    "airdate": "2026-03-19T16:16:24-07:00",
+    "song": "Roma Fade",
+    "track_id": "d3260855-db92-40ab-a915-7252322c4206",
+    "recording_id": "4b837e5a-ea47-42b8-90c8-1db799aa4f5f",
+    "artist": "Andrew Bird",
+    "artist_ids": [
+      "081b133e-ce74-42ba-92c1-c18234acb532"
+    ],
+    "album": "Are You Serious",
+    "release_id": "113c3ed2-de96-405e-ba82-9fc6cedb99d4",
+    "release_group_id": "f8ff1a52-b8ae-4273-8e32-50661a9f52d3",
+    "release_date": "2016-04-01"
+  },
+  {
+    "id": 3631136,
+    "uri": "https://api.kexp.org/v2/plays/3631136/?format=json",
+    "airdate": "2026-03-19T16:20:23-07:00",
+    "song": "Miami",
+    "track_id": "b88fc0f6-5738-4f16-9d01-cd85690b2e88",
+    "recording_id": "53ea7297-99e7-45e8-9136-b3c5a51afaa9",
+    "artist": "Pigeon",
+    "artist_ids": [
+      "fbd2dd81-d48c-44bf-b90d-e9af09a406c7"
+    ],
+    "album": "OUTTANATIONAL",
+    "release_id": "61f5d956-9c76-4073-8295-5ef155071361",
+    "release_group_id": "a29b3d33-a9d8-44b9-a122-5b5029857999",
+    "release_date": "2026-04-01"
+  },
+  {
+    "id": 3631231,
+    "uri": "https://api.kexp.org/v2/plays/3631231/?format=json",
+    "airdate": "2026-03-19T22:01:35-07:00",
+    "song": "Liftin' Me Up",
+    "track_id": "28a45c22-3706-45ec-9f52-e7d1897f7a89",
+    "recording_id": "18108a60-3168-4f29-a8c3-3b44a5021d95",
+    "artist": "Jill Scott",
+    "artist_ids": [
+      "b1fb6a18-1626-4011-80fb-eaf83dfebcb6"
+    ],
+    "album": "To Whom This May Concern",
+    "release_id": "8a61dd14-380e-4ea5-a06d-e2f49ef68baa",
+    "release_group_id": "5351a021-c5cf-4642-999c-bbfc6d98212c",
+    "release_date": "2026-02-13"
+  }
+]
