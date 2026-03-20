@@ -1,0 +1,20 @@
+body { margin: 10px; font-family: sans-serif; }
+audio { width: 100%; margin-bottom: 20px; }
+#playlist { display: flex; flex-direction: column; gap: 10px; max-height: 80vh; overflow-y: auto; }
+.song { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 8px; border-radius: 6px; background-color: #f8f8f8; }
+.song.current { flex-direction: row; align-items: center; padding: 14px; border: 2px solid #1db954; background-color: #e6ffed; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.song-art.current-art { width: 160px; height: 160px; object-fit: cover; border-radius: 10px; flex-shrink: 0; }
+.song-info { flex: 1; display: flex; flex-direction: column; }
+.song.current .song-info { gap: 4px; }
+.song.current .title { font-size: 1.15em; }
+.song-info .title { font-weight: bold; font-size: 1em; }
+.song-info .title.artist, .song-info .title.album { font-size: 0.8em; font-weight: normal; }
+.song-info .time { font-size: 0.8em; color: #888; }
+.search-btn { background-color: #1db954; border-radius: 6px; padding: 6px 10px; display: flex; align-items: center; justify-content: center; text-decoration: none; color: white; cursor: pointer; }
+.search-btn:hover { background-color: #14833b; }
+.search-btn .material-icons { font-size: 20px; }
+@media (max-width: 600px) {
+    .song.current { flex-direction: column; align-items: flex-start; }
+    .song-art.current-art { width: 100%; height: auto; }
+}
+#toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #1db954; color: white; padding: 10px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.3); display: none; z-index: 1000; font-weight: bold; }
